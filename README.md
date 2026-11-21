@@ -10,7 +10,6 @@ I enjoy learning, figuring things out, and turning ideas into working software. 
 | --- | --- | --- |
 | **[MNM — Taxi Dispatch Backend](https://github.com/MzooNgubane/express-postgres-taxi-dispatch-backend)** | Models South African minibus-taxi ranks, queue management, bookings, driver proximity, and real-time communication. | Node.js, Express, PostgreSQL, Redis, Socket.IO |
 | **[Spani](https://github.com/MzooNgubane/spani)** | A local AI-assisted agent for bursary and graduate-programme applications, with eligibility checks, deterministic form filling, and human approval before submission. | TypeScript, Node.js, Playwright, SQLite |
-| **[Community Voice — BACISS](https://github.com/MzooNgubane/uj_baciss)** | A university project exploring AI-assisted service-delivery reporting, triage, routing, and human review. | Python, FastAPI, LangGraph, Next.js |
 | **[MNM Commuter App](https://github.com/MzooNgubane/MNM_USER)** | A React Native prototype exploring taxi-rank discovery, commuter queues, and ride journeys. The screens currently use sample data. | React Native, Expo, JavaScript |
 | **[Firebase E-commerce App](https://github.com/MzooNgubane/firebase-auth-realtime-db-ecommerce-app)** | Mobile authentication, session handling, and real-time shopping-cart data. | React Native, Firebase |
 | **[Firestore Task Manager](https://github.com/MzooNgubane/firestore-realtime-data-task-manager)** | Project and task tracking with live Firestore listeners. | React Native, Firestore |
